@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-using-htmlandcss-KGVVpwd_2)
 - Live Site URL: [GitHub Pages](https://icewarrior01.github.io/Huddle-landing-page-with-single-introductory-section/index.html)
 
 ## My process
